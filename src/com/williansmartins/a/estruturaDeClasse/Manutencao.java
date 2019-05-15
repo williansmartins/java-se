@@ -1,4 +1,4 @@
-package com.williansmartins.a.estrutura;
+package com.williansmartins.a.estruturaDeClasse;
 
 import java.util.Date;
 
