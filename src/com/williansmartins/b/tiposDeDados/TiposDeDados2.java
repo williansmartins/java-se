@@ -1,5 +1,7 @@
 package com.williansmartins.b.tiposDeDados;
 
+import com.williansmartins.b.tiposDeDados.EnumTipoDoImovel;
+
 public class TiposDeDados2 {
 
 	public static void main(String[] args) {
@@ -31,6 +33,7 @@ public class TiposDeDados2 {
 		System.out.println("Float=" + valorFloat);
 		System.out.println("Char=" + valorChar);
 		System.out.println("Boolean=" + valorBoolean);
+		
 
 	}
 

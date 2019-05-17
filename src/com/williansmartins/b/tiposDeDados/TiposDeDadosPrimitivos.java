@@ -4,13 +4,13 @@ public class TiposDeDadosPrimitivos {
 
 	// boleanos
 	boolean boleano;
-	boolean boleano1 = false;
+	boolean boleano1 = true;
 
-	// numéricos
+	// numericos
 	// byte
 	byte b;
 	byte b1 = '1';
-	byte b2 = 111;
+	byte b2 = -111;
 	byte b3 = 0xA;
 	byte b4 = 07;
 
@@ -26,7 +26,7 @@ public class TiposDeDadosPrimitivos {
 
 	// long
 	long l;
-	long l1 = -32L;
+	long l1 = 32;
 	long l2 = 32l;
 
 	// float

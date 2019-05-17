@@ -2,7 +2,6 @@ package com.williansmartins.x.orientacao.interfaces;
 
 public interface InterfaceDoChefe {
 	void metodo1();
-
 	void metodo2();
 }
 
