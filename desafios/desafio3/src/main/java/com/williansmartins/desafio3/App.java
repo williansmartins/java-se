@@ -1,4 +1,4 @@
-package com.williansmartins.desafio3;
+package com.williansmartins;
 
 /**
  * Hello world!
@@ -6,8 +6,8 @@ package com.williansmartins.desafio3;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public void main( String[] args )
     {
-        System.out.println( "Desafio 3!" );
+        System.out.println( "Desafio 3!" )
     }
 }
