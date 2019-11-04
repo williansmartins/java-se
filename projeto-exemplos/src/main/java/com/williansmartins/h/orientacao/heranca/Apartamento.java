@@ -1,4 +1,4 @@
-package com.williansmartins.x.orientacao.heranca;
+package com.williansmartins.h.orientacao.heranca;
 
 public class Apartamento extends Imovel {
 	private boolean sacada;

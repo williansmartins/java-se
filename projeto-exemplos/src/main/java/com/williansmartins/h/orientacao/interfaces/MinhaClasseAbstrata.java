@@ -1,4 +1,4 @@
-package com.williansmartins.x.orientacao.interfaces;
+package com.williansmartins.h.orientacao.interfaces;
 
 public abstract class MinhaClasseAbstrata {
 
