@@ -1,8 +1,8 @@
-package com.williansmartins.h.orientacao.heranca;
+package com.williansmartins.h.orientacao.heranca.a;
 
 import javax.swing.JOptionPane;
 
-public class Executadora {
+public class TestaImovel {
 
 	public static void main(String[] args) {
 		Imovel casa = new Imovel();

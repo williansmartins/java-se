@@ -1,4 +1,4 @@
-package com.williansmartins.h.orientacao.a.declaracoes;
+package com.williansmartins.h.orientacao.heranca.b;
 
 public class Carro {
 	int ano;

@@ -1,0 +1,19 @@
+Orientação a Objeto
+	1- Herança
+		Superclasse
+		Subclasse
+		
+		A-Generalização (is-a ou é-um)
+			Ex.: Funcionario <- Pessoa
+			Seta branca
+		B-	
+		
+	2- Classe Abstrata
+		Pode ter métodos implementados
+		Não pode ser instanciada
+		
+Exercícios
+	Colocar uns diagramas de classe mostrando:
+		herança (métodos apresentados)
+		
+		

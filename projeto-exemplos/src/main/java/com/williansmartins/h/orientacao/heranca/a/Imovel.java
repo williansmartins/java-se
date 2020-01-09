@@ -1,4 +1,4 @@
-package com.williansmartins.h.orientacao.heranca;
+package com.williansmartins.h.orientacao.heranca.a;
 
 public class Imovel {
 

@@ -1,6 +1,6 @@
-package com.williansmartins.h.orientacao.a.declaracoes;
+package com.williansmartins.h.orientacao.heranca.b;
 
-import java.text.DecimalFormat;
+import com.williansmartins.enums.EstadoCivilEnum;
 
 public class UsaPessoa {
 	
@@ -12,6 +12,7 @@ public class UsaPessoa {
 		c1.placa = "DKJ1267";
 		
 		Pessoa p1 = new Pessoa();
+		
 		p1.nome = "JOAO";
 		p1.idade = 37;
 		p1.carro = c1;
@@ -21,5 +22,14 @@ public class UsaPessoa {
 		double numero= 12.34;
 		String resultado = String.format("%.2f", numero);
 		System.out.println(resultado);
+		
+		EstadoCivilEnum[] values = EstadoCivilEnum.values();
+		for (int i = 0; i < values.length; i++) {
+			EstadoCivilEnum estadoCivilEnum = values[i];
+			System.out.println(estadoCivilEnum);
+			
+		}
+		
+		
 	}
 }
